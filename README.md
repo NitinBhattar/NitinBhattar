@@ -24,37 +24,13 @@
 
 ## Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,sql&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,spring,js,ts,nodejs,express&theme=dark" alt="C++, Java, Spring Boot, JavaScript, TypeScript, Node.js, Express.js"/>
 </p>
 
-**Backend & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mongodb,mysql,postgres,redis,docker,kafka,git,githubactions,linux&perline=7&theme=dark" alt="React, Next.js, Tailwind CSS, MongoDB, MySQL, PostgreSQL, Redis, Docker, Kafka, Git, GitHub Actions, Linux"/>
 </p>
-
-**AI & Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</p>
-
-**Messaging, DevOps & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,docker,linux,git,githubactions,maven&theme=dark" />
-</p>
-
-**Additional Technologies:** Spring AI, RAG, OpenAI API, PGVector, Spring Cloud Gateway, Netflix Eureka, Zipkin, Hibernate, Spring Security.
 
 ---
 
@@ -62,9 +38,9 @@
 
 - **[E-Commerce Backend](https://github.com/NitinBhattar/Ecommerce-Backend-FML)** · Spring Boot microservices architecture with Kafka, service discovery, distributed tracing, and payment integration.
 - **[DevPilot](https://github.com/NitinBhattar/DevPilot-FML)** · AI-powered codebase assistant using GitHub integration, semantic indexing, RAG, and AI-generated code explanations.
-- **[StudyNotion](https://github.com/NitinBhattar/StudyNotion)** · MERN-based Learning Management System with payment and third-party service integrations.
-- **[Flowlytics](https://github.com/NitinBhattar/flowlytics)** · [Repository ↗](https://github.com/NitinBhattar/flowlytics) · [Live Demo ↗](https://flowlytics-two.vercel.app/)
-- **[DSA](https://github.com/NitinBhattar/DSA)** · [Repository ↗](https://github.com/NitinBhattar/DSA)
+- **[StudyNotion](https://github.com/NitinBhattar/StudyNotion)** · [Live Demo ↗](https://study-notion-ashy-beta.vercel.app/) · MERN-based Learning Management System with payment and third-party service integrations.
+- **[Flowlytics](https://github.com/NitinBhattar/flowlytics)** · [Live Demo ↗](https://flowlytics-two.vercel.app/) · Inventory management system with interactive dashboards, data visualization, and inventory tracking.
+- **[DSA](https://github.com/NitinBhattar/DSA)** · Data Structures and Algorithms practice in C++, covering problem-solving, algorithmic techniques, and competitive programming.
 
 ---
 
