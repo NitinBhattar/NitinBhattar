@@ -1,10 +1,11 @@
- <h1 align="center">Nitin Bhattar</h1>
+
+<h1 align="center">Nitin Bhattar</h1>
 
 <p align="center">
-  <strong>Software Developer · Backend Engineering · Problem Solving</strong>
+  <strong>Backend Engineer · Java & Spring Boot · Microservices · AI & RAG</strong>
 </p>
 
- <p align="center">
+<p align="center">
   <a href="mailto:nitinans09824@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -23,20 +24,45 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,spring,js,express&theme=dark" alt="C++, Java, Spring Boot, JavaScript, Express.js"/>
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,sql&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,html,css,mongodb,mysql,postgres,docker,kafka,git,githubactions&perline=7&theme=dark" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, HTML, CSS, MongoDB, MySQL, PostgreSQL, Docker, Kafka, Git, GitHub Actions"/>
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
 </p>
+
+**AI & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+</p>
+
+**Messaging, DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,docker,linux,git,githubactions,maven&theme=dark" />
+</p>
+
+**Additional Technologies:** Spring AI, RAG, OpenAI API, PGVector, Spring Cloud Gateway, Netflix Eureka, Zipkin, Hibernate, Spring Security.
 
 ---
 
 ## Projects
 
-- **[E-commerce Backend](https://github.com/NitinBhattar/Ecommerce-Backend-FML)** · [Repository ↗](https://github.com/NitinBhattar/Ecommerce-Backend-FML)
-- **[StudyNotion](https://github.com/NitinBhattar/StudyNotion)** · [Repository ↗](https://github.com/NitinBhattar/StudyNotion) · [Live Demo ↗](https://study-notion-ashy-beta.vercel.app/)
+- **[E-Commerce Backend](https://github.com/NitinBhattar/Ecommerce-Backend-FML)** · Spring Boot microservices architecture with Kafka, service discovery, distributed tracing, and payment integration.
+- **[DevPilot](https://github.com/NitinBhattar/DevPilot-FML)** · AI-powered codebase assistant using GitHub integration, semantic indexing, RAG, and AI-generated code explanations.
+- **[StudyNotion](https://github.com/NitinBhattar/StudyNotion)** · MERN-based Learning Management System with payment and third-party service integrations.
 - **[Flowlytics](https://github.com/NitinBhattar/flowlytics)** · [Repository ↗](https://github.com/NitinBhattar/flowlytics) · [Live Demo ↗](https://flowlytics-two.vercel.app/)
 - **[DSA](https://github.com/NitinBhattar/DSA)** · [Repository ↗](https://github.com/NitinBhattar/DSA)
 
